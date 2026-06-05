@@ -1,0 +1,22 @@
+:root {
+  /* color primary  */
+  --color-primary: #262626;
+  /* color secondary */
+
+  --color-secondary: #f55f8d;
+  /* button primary */
+  --gradient-primary: linear-gradient(
+    to right,
+    #f55f8d 0%,
+    #f8ae56 51%,
+    #f55f8d 100%
+  );
+  /* color neutral */
+  /* black */
+
+  --neutral-600: #636363;
+  --neutral-800: #262626;
+  --neutral-900: #070120;
+  /* hover effect */
+  --color-primary-hover: #f55f8d;
+}

@@ -1,0 +1,44 @@
+:root {
+  /* font chữ */
+  --font-primary: Roboto, sans-serif;
+  --font-button: Arial, sans-serif;
+
+  /* H2 */
+  --h2-size: 70px;
+  --h2-weight: 800;
+  --h2-line: 1.1;
+
+  /* H3 */
+  --h3-size: 24px;
+  --h3-weight: 800;
+  /* button */
+  --btn-size: 15px;
+  --btn-weight: 500;
+  --btn-line: 1.2;
+  /* Kicker */
+  --kicker-size: 22px;
+  --kicker-weight: 600;
+  /* header */
+  --menu-size: 15px;
+  --menu-weight: 500;
+  /* carousel */
+  --carousel-p-size: 18px;
+  --carousel-li-size: 20px;
+  /* Services */
+  /* About Us */
+  /* count */
+  --counter-p-main-size: 65px;
+  --counter-p-main-weight: 800;
+  --counter-p-main-line: 1;
+  --counter-p-size: 18px;
+  /* Features */
+  /* portfolio */
+  --portfolio-h3-size: 22px;
+  --portfolio-h3-weight: 800;
+  /* blog */
+  --text-blog-p-size: 14px;
+  --text-blog-icon-size: 22px;
+  --content-line: 1.4;
+  /* footer */
+  --text-footer-a-size: 16px;
+}
