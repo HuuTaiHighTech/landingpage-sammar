@@ -1,0 +1,20 @@
+/* trước khi hover */
+.btn-gradient {
+  padding: 20px 35px;
+  background-image: var(--gradient-primary);
+  font-size: var(--btn-size);
+  font-weight: var(--btn-weight);
+  list-style: var(--btn-line);
+  color: var(--neutral-100);
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  border-radius: 30px;
+  background-size: 200%;
+  transition: all 0.5s;
+  /* bàn tay khi hover */
+  /* cursor: pointer; */
+}
+/* sau khi hover */
+.btn-gradient:hover {
+  background-position: right center;
+}

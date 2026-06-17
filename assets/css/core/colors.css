@@ -13,7 +13,7 @@
   );
   /* color neutral */
   /* black */
-
+  --neutral-100: #ffffff;
   --neutral-600: #636363;
   --neutral-800: #262626;
   --neutral-900: #070120;

@@ -19,3 +19,23 @@ body {
   line-height: 1.6;
   font-size: 16px;
 }
+/* Reset list icons */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Reset link underline and color */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  /* border: none; */
+  /* outline: none; */
+  /* background: none; */
+  /* padding: 0;
+  margin: 0; */
+  /* font: inherit; */
+  cursor: pointer;
+}
